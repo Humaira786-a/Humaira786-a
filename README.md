@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi, I'm Humaira Ahmadi 👋
 
-<!--
-**Humaira786-a/Humaira786-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Frontend / Full-Stack Web Developer
 
-Here are some ideas to get you started:
+I’m a Computer Science graduate and Web Developer focused on building modern, responsive, and user-friendly web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I work primarily with **React, Next.js, TypeScript, JavaScript, and Tailwind CSS**, with experience integrating REST APIs, authentication, and backend services.
+
+---
+
+## 👩‍💻 About Me
+
+* 🎓 B.Sc. in Computer Science — Kabul University
+* 💻 Focused on Frontend & Full-Stack Web Development
+* ⚛️ Building applications with React and Next.js
+* 🎨 Interested in clean UI/UX and responsive design
+* 🔌 Experienced with REST API integration
+* 🌱 Currently strengthening my Full-Stack development skills
+* 🚀 Open to opportunities, collaborations, and challenging projects
+
+---
+
+## 🛠️ Tech Stack
+
+**Frontend**
+
+`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
+
+**Backend & APIs**
+
+`REST APIs` `Strapi` `Authentication`
+
+**Tools**
+
+`Git` `GitHub` `VS Code`
+
+---
+
+## 🚀 Featured Projects
+
+### 🎬 Movie Explorer
+
+A responsive movie discovery application built with React and the TMDB API.
+
+**Tech:** React · JavaScript · React Router · Tailwind CSS · REST API
+
+---
+
+### 📚 Literary Haven
+
+A modern online bookstore built with Next.js, focused on responsive design and book discovery.
+
+**Tech:** Next.js · React · Tailwind CSS · Google Books API
+
+---
+
+### 📝 Blog Explorer
+
+A full-stack blog application with authentication, API integration, and protected pages.
+
+**Tech:** Next.js · TypeScript · NextAuth · Tailwind CSS · REST API
+
+---
+
+### 🎓 Graduation Wall
+
+A collaborative graduation message platform where users can send congratulatory messages that are reviewed before publication.
+
+**Tech:** Next.js · TypeScript · Tailwind CSS · Strapi
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: [Humaira Ahmadi](https://www.linkedin.com/in/humaira-ahmadi-07a036285/)
+* 🌐 Portfolio: Coming soon
+* 📧 Email: Available upon request
+
+---
+
+## 🌱 Currently
+
+I’m continuing to improve my skills in **full-stack development, modern web architecture, and building production-ready applications**.
