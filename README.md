@@ -1,6 +1,6 @@
 # Hi, I'm Humaira Ahmadi 👋
 
-### Frontend / Full-Stack Web Developer
+### Frontend Developer | React & Next.js
 
 I’m a Computer Science graduate and Web Developer focused on building modern, responsive, and user-friendly web applications.
 
@@ -28,7 +28,7 @@ I work primarily with **React, Next.js, TypeScript, JavaScript, and Tailwind CSS
 
 **Backend & APIs**
 
-`REST APIs` `Strapi` `Authentication`
+`REST APIs` `Authentication`
 
 **Tools**
 
@@ -54,14 +54,6 @@ A modern online bookstore built with Next.js, focused on responsive design and b
 
 ---
 
-### 📝 Blog Explorer
-
-A full-stack blog application with authentication, API integration, and protected pages.
-
-**Tech:** Next.js · TypeScript · NextAuth · Tailwind CSS · REST API
-
----
-
 ### 🎓 Graduation Wall
 
 A collaborative graduation message platform where users can send congratulatory messages that are reviewed before publication.
@@ -74,7 +66,7 @@ A collaborative graduation message platform where users can send congratulatory 
 
 * 💼 LinkedIn: [Humaira Ahmadi](https://www.linkedin.com/in/humaira-ahmadi-07a036285/)
 * 🌐 Portfolio: Coming soon
-* 📧 Email: Available upon request
+* 📧 Email: [humai.ahmadi97@gmail.com]
 
 ---
 
