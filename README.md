@@ -1,75 +1,177 @@
-# Hi, I'm Humaira Ahmadi 👋
+<div align="center">
 
-### Frontend Developer | React & Next.js
+# 👋 Hi, I'm Humaira Ahmadi
 
-I’m a Computer Science graduate and Web Developer focused on building modern, responsive, and user-friendly web applications.
+### 💻 Frontend Developer | React & Next.js
 
-I work primarily with **React, Next.js, TypeScript, JavaScript, and Tailwind CSS**, with experience integrating REST APIs, authentication, and backend services.
+<a href="https://github.com/Humaira786-a">
+  <img src="https://komarev.com/ghpvc/?username=Humaira786-a&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</a>
+
+<br/>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 I build modern web experiences that are
+
+**Responsive • User-focused • Clean • Interactive**
+
+</div>
 
 ---
 
 ## 👩‍💻 About Me
 
-* 🎓 B.Sc. in Computer Science — Kabul University
-* 💻 Focused on Frontend & Full-Stack Web Development
-* ⚛️ Building applications with React and Next.js
-* 🎨 Interested in clean UI/UX and responsive design
-* 🔌 Experienced with REST API integration
-* 🌱 Currently strengthening my Full-Stack development skills
-* 🚀 Open to opportunities, collaborations, and challenging projects
+I'm a **Computer Science graduate** and **Frontend Developer** passionate about creating modern web applications and turning ideas into engaging digital experiences.
+
+My main focus is **React and Next.js**, with a growing interest in full-stack development, modern web architecture, and creating interfaces that are both functional and enjoyable to use.
+
+```text
+🎓 Computer Science Graduate
+💻 Frontend Developer
+⚛️ React & Next.js
+🎨 UI-focused development
+🔌 REST API Integration
+🌱 Growing toward Full-Stack Development
+🚀 Always building something new
+```
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technologies & Tools
 
-**Frontend**
+<div align="center">
 
-`HTML` `CSS` `JavaScript` `TypeScript` `React` `Next.js` `Tailwind CSS`
+### Frontend
 
-**Backend & APIs**
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
 
-`REST APIs` `Authentication`
+### Backend & Development
 
-**Tools**
+<img src="https://skillicons.dev/icons?i=nodejs,strapi,git,github,vscode" />
 
-`Git` `GitHub` `VS Code`
+</div>
 
 ---
 
 ## 🚀 Featured Projects
 
+<div align="center">
+
 ### 🎬 Movie Explorer
 
 A responsive movie discovery application built with React and the TMDB API.
 
-**Tech:** React · JavaScript · React Router · Tailwind CSS · REST API
+**React · JavaScript · React Router · Tailwind CSS · REST API**
+
+<a href="YOUR_MOVIE_GITHUB_URL">
+  <img src="https://img.shields.io/badge/Source%20Code-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
 
 ---
 
-### 📚 Literary Haven
+## 📊 GitHub Activity
 
-A modern online bookstore built with Next.js, focused on responsive design and book discovery.
+<div align="center">
 
-**Tech:** Next.js · React · Tailwind CSS · Google Books API
+<img src="https://github-readme-stats.vercel.app/api?username=Humaira786-a&show_icons=true&hide_border=true&rank_icon=github" height="170"/>
 
----
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Humaira786-a&layout=compact&hide_border=true" height="170"/>
 
-### 🎓 Graduation Wall
-
-A collaborative graduation message platform where users can send congratulatory messages that are reviewed before publication.
-
-**Tech:** Next.js · TypeScript · Tailwind CSS · Strapi
+</div>
 
 ---
 
-## 📫 Connect With Me
+## 🔥 Contribution Streak
 
-* 💼 LinkedIn: [Humaira Ahmadi](https://www.linkedin.com/in/humaira-ahmadi-07a036285/)
-* 🌐 Portfolio: Coming soon
-* 📧 Email: [humai.ahmadi97@gmail.com]
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Humaira786-a&hide_border=true" />
+
+</div>
 
 ---
 
-## 🌱 Currently
+## 🌱 Currently Building
 
-I’m continuing to improve my skills in **full-stack development, modern web architecture, and building production-ready applications**.
+```text
+╭─────────────────────────────────────────────────╮
+│                                                 │
+│  🚧 Personal Developer Portfolio               │
+│                                                 │
+│  Building a modern portfolio with Next.js,     │
+│  interactive UI and 3D experiences.             │
+│                                                 │
+│  ⚡ Next.js                                      │
+│  🎨 Tailwind CSS                                │
+│  🧩 TypeScript                                  │
+│  🌐 Modern Web Development                      │
+│                                                 │
+╰─────────────────────────────────────────────────╯
+```
+
+---
+
+## 💡 What I'm Interested In
+
+* ⚛️ Modern React & Next.js development
+* 🎨 UI/UX and interactive interfaces
+* 🧩 Component-based architecture
+* 🔌 API integration
+* 🔐 Authentication & protected applications
+* 🌐 Full-stack web development
+* ✨ 3D and immersive web experiences
+
+---
+
+## 📈 My Developer Journey
+
+<div align="center">
+
+**Learn → Build → Break → Debug → Improve → Repeat 🔁**
+
+</div>
+
+I'm continuously learning by building real projects, experimenting with new technologies, and turning challenges into opportunities to improve my development skills.
+
+---
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Humaira786-a">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+### ✨ Thanks for visiting my profile!
+
+**Keep learning. Keep building. Keep growing. 🚀**
+
+</div>
